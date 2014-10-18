@@ -1,7 +1,7 @@
 ex-branches
 ===========
 
-At 10:45 AM, I really wish I had a cookie. :cookie:
+At 10:45 AM, I really wish I had a oatmeal raisin cookie. :cookie:
 
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
